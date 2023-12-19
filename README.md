@@ -3,7 +3,7 @@
 
 - 🍻 MENG at CA [UofA](https://www.ualberta.ca), Software Engineering
 - ⚡ Java / Python.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Ruby on Rails!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)](https://github.com/TinaWang98)
 
