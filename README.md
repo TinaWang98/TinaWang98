@@ -5,8 +5,6 @@
 - ⚡ Java / Python.
 - 🌱 I’m currently learning JavaScript
 
-[![Tina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinaWang98&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/TinaWang98)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)](https://github.com/TinaWang98)
 
 
