@@ -1,6 +1,6 @@
 ### Yoo, I'm Tina 👋
 <a title="github" target="_blank" href="https://github.com/TinaWang98"><img src="https://img.shields.io/badge/dynamic/json?color=FF0000&label=github&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTinaWang98" ></a>
-(https://space.bilibili.com/37287031/)
+
 - 🍻 MENG at CA [UofA](https://www.ualberta.ca), Software Engineering
 - ⚡ Java / Python.
 - 🌱 I’m currently learning JavaScript
